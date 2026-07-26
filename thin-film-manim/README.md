@@ -28,7 +28,7 @@ The project focuses on combining:
 
 ## Full Project Video Link
 
-🔗 Paste Drive Link Here:https://drive.google.com/file/d/1XlRYcEKPUb7hW8cX3RbfKsgNNc8P8-SG/view?usp=sharing
+🔗 Paste Drive Link Here:https://drive.google.com/file/d/1kZxBgd2pu1rZZJl6Om0bnajYrpq4KiCk/view?usp=sharing
 
 ```txt
 https://drive.google.com/file/d/1XlRYcEKPUb7hW8cX3RbfKsgNNc8P8-SG/view?usp=sharing
@@ -83,73 +83,6 @@ https://drive.google.com/file/d/1XlRYcEKPUb7hW8cX3RbfKsgNNc8P8-SG/view?usp=shari
 | NumPy | Mathematical Calculations |
 | FFmpeg | Video Rendering |
 | LaTeX | Mathematical Equations |
-
----
-
-# 📂 Project Structure
-
-```bash
-Thin-Film-Interference/
-│
-├── scene1_interference_intro.py
-├── scene2_phase_difference.py
-├── scene3_thin_film_explanation.py
-├── scene4_stokes_law.py
-├── scene5_newtons_rings.py
-├── scene6_lens_coating.py
-├── scene7_oil_film.py
-├── scene8_final_conclusion.py
-│
-├── assets/
-│   ├── images/
-│   ├── audio/
-│   └── textures/
-│
-├── renders/
-│
-└── README.md
-```
-
----
-
-# 🚀 How to Run the Project
-
-## 1. Install Python
-
-Download and install Python:
-
-https://www.python.org/downloads/
-
----
-
-## 2. Install Manim
-
-```bash
-pip install manim
-```
-
----
-
-## 3. Verify Installation
-
-```bash
-manim --version
-```
-
----
-
-## 4. Run a Scene
-
-Example:
-
-```bash
-manim -pqh scene5_newtons_rings.py NewtonsRingsCinematic
-```
-
-Where:
-
-- `-p` → preview after rendering
-- `-qh` → high quality rendering
 
 ---
 
