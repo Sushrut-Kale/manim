@@ -1,93 +1,63 @@
-# Navier–Stokes Equation and Beyond
+# 🌊 Navier–Stokes Equation and Beyond
 
 ---
 
-# Math Topic
+## 📘 Math Topic
 
-**Fluid Dynamics / Navier–Stokes Equation**
-
----
-
-# Navier–Stokes Equation
-
-The incompressible Navier–Stokes equation is given by
-
-<p align="center">
-
-$$
-\rho\left(\frac{\partial \mathbf{v}}{\partial t}+(\mathbf{v}\cdot\nabla)\mathbf{v}\right)
-=
--\nabla p
-+
-\mu\nabla^{2}\mathbf{v}
-+
-\mathbf{f}
-$$
-
-</p>
-
-Where,
-
-- **ρ** — Fluid density
-- **v** — Velocity field
-- **p** — Pressure
-- **μ** — Dynamic viscosity
-- **f** — External body forces (such as gravity or electromagnetic forces)
-
-This equation describes the motion of fluids by balancing inertia, pressure, viscous forces, and external forces.
+**Fluid Dynamics • Navier–Stokes Equation**
 
 ---
 
-# About the Video
+## 📖 About the Project
 
-This project is a cinematic mathematical visualization developed using **Manim Community Edition** to explain one of the most fundamental equations in fluid dynamics—the **Navier–Stokes Equation**.
+This project is a cinematic educational animation developed using **Manim Community Edition** to explain one of the most fundamental equations in fluid dynamics—the **Navier–Stokes Equation**.
 
-Instead of introducing mathematical equations immediately, the animation begins with the fundamental concept of fluids and gradually builds intuition behind fluid motion. It then develops the mathematical framework by introducing velocity fields, pressure, viscosity, convection, diffusion, and finally derives the Navier–Stokes equation through engaging visual storytelling.
+The animation begins with the basic concept of fluid motion and gradually builds intuition behind velocity fields, pressure, viscosity, convection, and diffusion before introducing the Navier–Stokes Equation. Through engaging visual storytelling, the project demonstrates how these concepts combine to describe the motion of liquids and gases.
 
-The visualization further explores advanced topics including boundary layer theory, laminar and turbulent flow, engineering applications, magnetohydrodynamics (MHD), Lorentz force, and fluid instability. By combining mathematics, physics, and scientific animation, the project demonstrates how a single equation can describe phenomena ranging from water flowing through pipes to atmospheric flows, plasma dynamics, and astrophysical systems.
-
----
-
-# Objectives
-
-- Develop intuition for fluid motion before introducing mathematical equations.
-- Explain the physical meaning of every term in the Navier–Stokes equation.
-- Visualize the interaction of pressure, viscosity, convection, and external forces.
-- Connect mathematical models with real-world engineering applications.
-- Simplify complex fluid mechanics through cinematic scientific visualization.
+It further explores advanced topics such as **boundary layer theory, laminar and turbulent flow, magnetohydrodynamics (MHD), Lorentz force, and engineering applications**, connecting mathematical theory with real-world phenomena.
 
 ---
 
-# Key Concepts Covered
+## 🎯 Objectives
+
+- Build intuition for fluid motion through visualization.
+- Explain the physical meaning of the Navier–Stokes Equation.
+- Visualize pressure, viscosity, convection, and external forces.
+- Connect mathematical models with engineering applications.
+- Simplify complex fluid mechanics using animation.
+
+---
+
+## 📚 Key Concepts Covered
 
 - Fluid Motion
 - Velocity Fields
-- Pressure and Density
+- Pressure & Density
 - Navier–Stokes Equation
-- Convection and Diffusion
+- Convection & Diffusion
 - Boundary Layer Theory
-- Laminar and Turbulent Flow
-- Engineering Applications
+- Laminar & Turbulent Flow
 - Magnetohydrodynamics (MHD)
 - Lorentz Force
+- Engineering Applications
 - Flow Instability
-- Plasma and Astrophysical Flows
+- Plasma & Astrophysical Flows
 
 ---
 
-# Educational Significance
+## 🎓 Educational Significance
 
-This visualization bridges the gap between abstract mathematics and physical intuition by transforming complex equations into understandable animations. It provides learners with a conceptual understanding of fluid dynamics while demonstrating how mathematical models are applied across engineering, physics, and natural sciences.
+This visualization bridges the gap between mathematics and physical intuition by transforming complex fluid dynamics into engaging animations. It helps learners understand how mathematical models are used to describe real-world fluid behavior across science and engineering.
 
 ---
 
-# Final Video
+## 🎥 Final Video
 
 **Google Drive:**  
 https://drive.google.com/file/d/1zq-vIrzUVYLMoL6Zik4juPzlPRv9vsGb/view?usp=sharing
 
 ---
 
-# Conclusion
+## 🏁 Conclusion
 
-**Navier–Stokes Equation and Beyond** presents a complete journey through fluid dynamics by combining mathematical rigor with cinematic visualization. The project illustrates how one of the most important equations in science governs fluid behavior across engineering systems, atmospheric phenomena, and the universe itself, making advanced concepts intuitive, engaging, and accessible.
+**Navier–Stokes Equation and Beyond** combines mathematics, physics, and scientific visualization to make one of the most important equations in engineering both intuitive and engaging. The project demonstrates how animation can transform abstract mathematical concepts into meaningful visual experiences.
