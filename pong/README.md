@@ -143,14 +143,6 @@ The project serves as an excellent introduction to physics-based simulations and
 
 ---
 
-## Final Video
-
-**Google Drive Link**
-
-> *(Replace with your Google Drive video link here.)*
-
----
-
 ## Conclusion
 
 **Pong Game Simulator using Manim** demonstrates how simple mathematical principles can recreate one of the most iconic arcade games. By combining vector mathematics, collision detection, trigonometric motion, and cinematic animation, the project transforms a classic game into an educational visualization that illustrates the foundations of computer graphics, physics simulation, and game mechanics.
