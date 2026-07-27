@@ -7,7 +7,7 @@ manim pink_pong simulation
 ## Math Topic
 
 **Physics-Based Motion • Collision Detection • Vector Mathematics • Game Simulation**
-
+"pong/Pong video.mp4
 ---
 
 ## About the Video
